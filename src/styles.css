@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.css-1rwyxsf,
+[data-css-1rwyxsf] {
+  color: rgb(40, 44, 52);
+  margin-bottom: 0px;
+  margin-top: 40px;
+  font-size: 60px;
+  line-height: 65px;
+  font-weight: 700;
+}
+.active {
+  border-bottom: 4px solid #61dafb;
+}
+.navbar {
+  padding-bottom: 0px;
+}
